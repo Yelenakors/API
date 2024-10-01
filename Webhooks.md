@@ -12,7 +12,7 @@ Configuration
 First of all you need to specify security header (name and value) to protect merchant's site webhook endpoint. Only basic authentication supported for the moment. The same security header will be used for all requests.
 
 Next, you need to select event type (for which you want to get webhook requests) and specify webhook url on your side.
-
+This option will be relevant in 2025
 
 ```
 You cannot use localhost* addresses, as well any intranet addresses
